@@ -1,0 +1,5 @@
+{
+	"jupyter.jupyterServerType": "local",
+	"python.formatting.provider": "yapf",
+	"python.formatting.yapfArgs": ["--style", "{column_limit: 3000}"]
+}
